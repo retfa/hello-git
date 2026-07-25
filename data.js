@@ -11,7 +11,7 @@
 window.DASHBOARD_DATA = {
   profile: {
     name: "阿旭",
-    lang: "c#,python",
+    lang: "c#,python，javascript",
   },
   sections: [
     {
